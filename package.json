@@ -1,0 +1,14 @@
+{
+  "name": "express-mysql-start",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/CupNoodleFork/express-mysql-start.git",
+    "type": "git"
+  },
+  "author": "zhangchaowei <zhangchaowei@haizhi.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
